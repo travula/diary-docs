@@ -1,13 +1,25 @@
-#+TITLE: About Me
+#+TITLE: Musings
 #+AUTHOR: Thirumal Ravula
-#+DATE: [2017-06-15 Thu]
+#+DATE: [2016-12-25 Sun]
 #+SETUPFILE: ./org-templates/level-0.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-I am tied to the idea "Small is Beautiful" and does farming in my native
-village over the weekends.  I attribute most of the problems that afflict us
-today to bigness.  I am also of the firm belief that bigness takes away the
-connection between man and nature and allows one to sheild from owning
-responsiblity for the irreparable damage being done to EARTH.
+
+* Introduction
+  These are some of my jottings which I do rarely but of late want to do more
+  often.
+
+
+* Trip to Malana
+  This is about my trip that I undertook in the last weeks of October, 2016. 
+  
+** [[./trip-to-malala-part-1.org][Part I]]  
+
+** [[./trip-to-malala-part-2.org][Part II]]    
+
+* Kissan Direct
+  
+  [[./kissandirect.org][Memo for Kissan Direct]]
+
